@@ -1,0 +1,18 @@
+Links to the dataset:
+
+1. Jinyu Zhao, Yichen Zhang, Xuehai He, and Pengtao Xie, “COVID-19 Lung CT Scans.” Kaggle, 
+2020, doi: 10.34740/KAGGLE/DS/584020
+
+2. Maede Maftouni. (2021). <i>Large COVID-19 CT scan slice dataset</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/2321803
+
+3. Rahimzadeh, Mohammad and Abolfazl Attar. “A modified deep convolutional neural network for 
+detecting COVID-19 and pneumonia from chest X-ray images based on the concatenation of Xception 
+and ResNet50V2.” Informatics in Medicine Unlocked 19 (2020): 100360 - 100360
+
+4.  Anas Elmasry, “COVID-19&Normal&Pneumonia_CT_Images.”, Kaggle, 2020
+
+5.  Eduardo Soares and Plamen Angelov, “SARS-COV-2 Ct-Scan Dataset.” Kaggle, 2020, doi: 
+10.34740/KAGGLE/DSV/1199870
+
+6. Eduardo Soares and Plamen Angelov, “A COVID multiclass dataset of CT scans.” Kaggle, 2020, 
+doi: 10.34740/KAGGLE/DSV/1235046
